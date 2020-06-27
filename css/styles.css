@@ -11,13 +11,13 @@
 
   hr{
     width: 30px;
-    height: 90px;
+    height: 130px;
     border: 0px;
   }
 
   p{
     margin: 0 auto;
-    width: 600px;
+    width: 900px;
     line-height: 2;
   }
 
@@ -31,15 +31,60 @@
   }
 
 
+  .middle-container{
+  }
 
-.middle-container{
+  .bottom-container{
+    margin: 100px;
+  }
 
-}
+  .people{
+    width: 1000px;
+  }
 
-.bottom-container{
+  .profile-pic{
+    border-radius: 100%;
+    width: 160px;
+  }
 
-}
+  .skills-icon{
+    width: 130px;
+  }
 
-.people{
-  width: 1000px;
-}
+  .contact-icon{
+    width: 130px;
+  }
+
+  .skills-table{
+    width: 700px;
+    height: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 0 0 0 50px;
+  }
+
+  .contact-table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+  }
+
+
+  .hr2{
+    height: 20px;
+  }
+
+  .hr3{
+    height: 30px;
+  }
+
+  .contact-p{
+    margin: 0 auto;
+    width: 230px;
+    line-height: 2;
+  }
+
+  .footer-link{
+    margin: 0 30px;
+  }
