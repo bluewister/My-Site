@@ -17,7 +17,7 @@
 
   p{
     margin: 0 auto;
-    width: 900px;
+    width: 50%;
     line-height: 2;
   }
 
@@ -28,14 +28,16 @@
     background-color: #f5f6fa;
     position: relative;
     padding-top: 100px;
+    margin-bottom: 130px;
   }
 
 
   .middle-container{
+    margin-bottom: 130px;
   }
 
   .bottom-container{
-    margin: 100px;
+    margin-bottom: 130px;
   }
 
   .people{
@@ -45,38 +47,37 @@
   .profile-pic{
     border-radius: 100%;
     width: 160px;
+    margin-bottom: 20px;
   }
 
   .skills-icon{
     width: 130px;
+    margin-bottom: 20px;
   }
 
   .contact-icon{
     width: 130px;
+    margin-bottom: 20px;
+  }
+
+  .skills{
+    margin: 130px auto;
   }
 
   .skills-table{
-    width: 700px;
-    height: 230px;
+    width: 50%;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    padding: 0 0 0 50px;
+    padding-left: 7.5%;
   }
 
   .contact-table{
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 30px;
     width: 600px;
-  }
-
-
-  .hr2{
-    height: 20px;
-  }
-
-  .hr3{
-    height: 30px;
   }
 
   .contact-p{
@@ -86,5 +87,9 @@
   }
 
   .footer-link{
-    margin: 0 30px;
+    margin: 20px;
+  }
+
+  .signature{
+    margin-top: 30px;
   }
