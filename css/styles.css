@@ -65,12 +65,10 @@
   }
 
   .skills-table{
-    width: 50%;
-    height: 200px;
+    width: 700px;
+    height: 230px;
     margin-left: auto;
     margin-right: auto;
-    text-align: left;
-    padding-left: 7.5%;
   }
 
   .contact-table{
